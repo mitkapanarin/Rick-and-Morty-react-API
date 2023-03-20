@@ -1,0 +1,9 @@
+.card-parent{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+a{
+  text-decoration: none !important;
+  color: #212529 !important;
+}
